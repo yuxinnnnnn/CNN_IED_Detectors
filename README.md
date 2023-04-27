@@ -10,7 +10,7 @@
 
 #
 
-This repository contains three Jupyter Notebook files, each serving a specific purpose in the development of 2D CNN IED detectors:
+This repository contains three Jupyter Notebook files:
 
 1. `IED_Detector_EEG_and_MEG_single-patient.ipynb`: This notebook focuses on generating individual 2D CNN IED detectors for each of the six patients (Patients 0013, 0025, 0049, 0053, 0060, 0090), utilizing both EEG and MEG recordings. It demonstrates the process of training and evaluating the performance of single-patient models.
 2. `IED_Detector_EEG_std-PCA-method.ipynb`: This notebook explores the development of 2D CNN IED detectors using EEG recordings that have been processed with the _**standard PCA method***_. This method involves extracting the first 20 principal components (PCs) to reduce dimensionality and noise in the data.

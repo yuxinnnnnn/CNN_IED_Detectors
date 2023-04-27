@@ -9,7 +9,6 @@
 #### Department of Neuroscience, McGill University
 
 #
-
 This repository contains three Jupyter Notebook files:
 
 1. `IED_Detector_EEG_and_MEG_single-patient.ipynb`: This notebook focuses on generating individual 2D CNN IED detectors for each of the six patients (Patients 0013, 0025, 0049, 0053, 0060, 0090), utilizing both EEG and MEG recordings. It demonstrates the process of training and evaluating the performance of single-patient models.
